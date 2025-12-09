@@ -225,7 +225,6 @@ return {
         bashls = {},
         pylsp = {},
         ansiblels = {},
-        groovyls = {},
         yamlls = {},
 
         lua_ls = {
